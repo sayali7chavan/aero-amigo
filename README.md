@@ -1,0 +1,2 @@
+# aero-amigo
+Aero-Amigi is a comprehensive weather app that provides accurate and up-to-date weather information at your fingertips. Powered by the OpenWeatherAPI, Aero-Amigi offers real-time weather forecasts, current conditions, and detailed weather data for locations around the world.
